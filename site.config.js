@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'DV JUOH BLOG',
-  domain: 'transitivebullsh.it',
+  domain: 'dv-juoh.me',
   author: 'JUOH',
 
   // open graph metadata (optional)
